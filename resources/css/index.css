@@ -1,0 +1,26 @@
+  table, th, td {
+     border: 1px solid skyblue;
+     font-family: "playfair display";
+ }
+ table {
+     background-color: rgba(190, 130, 20, 0.4) ;
+ }
+  td {
+      text-align: center;
+  }
+  #otsikko {
+      text-align: center;
+      color: rgb(20, 19, 2);
+      background-color: rgba(190, 130, 20, 0.4);
+      font-family: Roboto;
+  }
+  #otsikko2 {
+      text-align: center;
+      color: rgba(220, 20, 60, 0.65);
+      font-family: Roboto;
+  }
+  .thead1 {
+      color:skyblue;
+      background-color: rgba(220, 20, 60, 0.65);
+
+  }
